@@ -1,0 +1,6 @@
+framework module Pods_RCTIntegration {
+  umbrella header "Pods-RCTIntegration-umbrella.h"
+
+  export *
+  module * { export * }
+}
